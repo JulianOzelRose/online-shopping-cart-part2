@@ -1,5 +1,4 @@
 # online-shopping-cart-part2
-
 7.24 LAB*: Online shopping cart (Part 2)
 
 This program extends the earlier "Online shopping cart" program. (Consider first saving your earlier program).
