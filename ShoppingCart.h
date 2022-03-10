@@ -1,5 +1,5 @@
 /***********************************************************************************************
- *   Author:      Julian R.
+ *   Author:      Julian Rose
  *   File:        ShoppingCart.h
  *   Course:      CS 7B
  *   Assignment:  Project 1B: Online Shopping Cart, Part 2
